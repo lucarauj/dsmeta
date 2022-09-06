@@ -19,3 +19,12 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+#sales {
+  padding: 40px 10px;
+}
+
+.dsmeta-input-container {
+  margin-bottom: 16px;
+  max-width: 300px;
+}

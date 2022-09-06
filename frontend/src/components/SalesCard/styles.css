@@ -1,0 +1,97 @@
+.dsmeta-card {
+    background-color: #283142;
+    border-radius: 10px;
+    padding: 30px 10px;
+}
+
+.dsmeta-sales-title {
+    color: #676FFF;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.dsmeta-input {
+    width: 100%;
+    height: 46px;
+    background-color: #1B2531;
+    border: 1px solid #384459;
+    border-radius: 5px;
+    color: #9AAABE;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.dsmeta-input-container {
+    margin-bottom: 16px;
+    max-width: 300px;
+}
+
+.dsmeta-table {
+    width: 100%;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.dsmeta-table thead {
+    height: 55px;
+    font-size: 16px;
+    color: #E9E9E9;
+    font-weight: 700;
+}
+
+.dsmeta-table tbody {
+    color: #CFCFCF;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}
+
+.dsmeta-table tr {
+    height: 74px;
+    border-top: 1px solid #5F6E82;
+}
+
+.dsmeta-table tbody tr:nth-child(odd) {
+    background-color: #242C3B;
+}
+
+.dsmeta-table tbody tr:hover>td {
+    background-color: #384459;
+}   
+
+.dsmeta-red-btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.show576 {
+    display: none;
+}
+
+@media (min-width: 576px) {
+    .show576 {
+        display: table-cell;
+    }
+
+    .dsmeta-card {
+        padding: 35px;
+    }
+
+    .dsmeta-table tr {
+        height: 55px;
+    }
+
+    .dsmeta-table tbody {
+        font-size: 18px;
+    }
+}
+
+.show900 {
+    display: none;
+}
+
+@media (min-width: 900px) {
+    .show900 {
+        display: table-cell;
+    }
+}
