@@ -46,4 +46,5 @@ O objetivo da aplicação é notificar o vendedor destaque por meio de SMS com d
 
 Lucas Araujo
 
-https://www.linkedin.com/in/lucas-araujo-1892a320b
+https://www.linkedin.com/in/lucarauj
+
