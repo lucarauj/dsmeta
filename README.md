@@ -30,7 +30,7 @@ O objetivo da aplicação é notificar o vendedor destaque por meio de SMS com d
 - Spring Boot
 - H2
 
-## Mais...
+## Ferramentas
 - Design Figma
 - Spring tool suíte (STS)
 - VS Code
