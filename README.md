@@ -5,7 +5,7 @@
 
 [https://dsmeta-lucarauj.netlify.app]
 
-DSMeta – é um relatório de vendas com filtro de datas e envio de SMS com dados de vendedores construído durante a **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSMeta – é um relatório de vendas com filtro de datas e envio de SMS com dados de vendedores construído durante a **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 O projeto consiste em uma lista de vendedores ranqueados pela maior quantidade de vendas dentro de um determinado período escolhido pelo usuário. 
 O objetivo da aplicação é notificar o vendedor destaque por meio de SMS com dados relativos ao seu nome, período e total de vendas.
