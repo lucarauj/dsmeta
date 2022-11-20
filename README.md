@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-[https://dsmeta-lucarauj.netlify.app]
+### Endereço do projeto: [https://dsmeta-lucarauj.netlify.app]
 
 DSMeta – é um relatório de vendas com filtro de datas e envio de SMS com dados de vendedores construído durante a **Semana Spring React**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
@@ -46,5 +46,5 @@ O objetivo da aplicação é notificar o vendedor destaque por meio de SMS com d
 
 Lucas Araujo
 
-https://www.linkedin.com/in/lucarauj
+<a href="https://www.linkedin.com/in/lucarauj"><img alt="lucarauj | LinkdeIN" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
 
